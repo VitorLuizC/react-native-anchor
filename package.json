@@ -1,0 +1,33 @@
+{
+  "name": "react-native-anchor",
+  "version": "0.0.0",
+  "description": "A react-native textual component to open links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorLuizC/react-native-anchor.git"
+  },
+  "keywords": [
+    "react-native-component",
+    "react-native",
+    "react",
+    "link",
+    "anchor",
+    "react-native-anchor",
+    "url",
+    "open-link"
+  ],
+  "author": {
+    "url": "https://vitorluizc.github.io/",
+    "name": "Vitor Luiz Cavalcanti",
+    "email": "vitorluizc@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitorLuizC/react-native-anchor/issues"
+  },
+  "homepage": "https://github.com/VitorLuizC/react-native-anchor#readme"
+}
