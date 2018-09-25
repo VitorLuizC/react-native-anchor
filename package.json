@@ -29,5 +29,11 @@
   "bugs": {
     "url": "https://github.com/VitorLuizC/react-native-anchor/issues"
   },
-  "homepage": "https://github.com/VitorLuizC/react-native-anchor#readme"
+  "homepage": "https://github.com/VitorLuizC/react-native-anchor#readme",
+  "devDependencies": {
+    "@types/react": "^16.4.14",
+    "@types/react-native": "^0.56.24",
+    "react": "^16.5.2",
+    "react-native": "^0.57.1"
+  }
 }
